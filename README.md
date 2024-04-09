@@ -1,4 +1,4 @@
-<h1>!this is a FORK of the original bluetooth spammer The original creator added lovespools (dont use it, it will cause the app to crash!!!)!</h1>
+<h1>!this is a FORK of the original bluetooth spammer The original creator </h1>
 
 # Bluetooth LE Spam <a href="https://discord.gg/x4e4Gma585">![Discord](https://img.shields.io/discord/1170266776731406386?label=Discord&link=https://discord.gg/x4e4Gma585)</a>
 
