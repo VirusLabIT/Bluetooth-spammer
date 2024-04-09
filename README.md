@@ -1,3 +1,5 @@
+<h1>!this is a FORK of the original bluetooth spammer The original creator added lovespools (dont use it, it will cause the app to crash!!!)!</h1>
+
 # Bluetooth LE Spam <a href="https://discord.gg/x4e4Gma585">![Discord](https://img.shields.io/discord/1170266776731406386?label=Discord&link=https://discord.gg/x4e4Gma585)</a>
 
 This project focuses on utilizing the built-in Bluetooth Low Energy (BLE) functionality of Android smartphones to create Phantom Bluetooth Device Advertisements, similar to what is known, for instance, in the case of the Flipper Zero. While there are other apps available that provide similar functionality, the objective of this app is to enhance convenience and user-friendliness in the process.
@@ -36,8 +38,7 @@ With some modifications to the advertised BLE package, it is possible to trigger
 
 > **_NOTE:_** To achieve optimal results, it is recommended to set the advertising interval to a value between 20 and 100 milliseconds. Additionally, locking and unlocking the targeted iPhone can aid in the process.
 
-### Lovespouse (Adult Toys)
-With this functionality, it is possible to enable or disable various adult toys that support the Lovespouse app. Additionally, the "Denial of Pleasure" can be executed by selecting the Lovespouse Stops List and setting the repeat mode to Repeat List. More information on this topic can be found [here](https://mandomat.github.io/2023-11-13-denial-of-pleasure/).
+
 
 ### Kitchen Sink (Everything at once)
 Utilizing this functionality, the app randomly generates BLE advertisement packages based on all other features. This leads to the highest number of affected devices in the vicinity.
